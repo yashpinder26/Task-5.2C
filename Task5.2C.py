@@ -1,6 +1,5 @@
 import tkinter as tk
 from gpiozero import PWMLED
-from time import sleep
 
 led = PWMLED(18)
 
